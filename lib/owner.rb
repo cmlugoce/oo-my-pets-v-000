@@ -8,6 +8,7 @@ class Owner
     @name = ""
     @species = "human"
     @@all << self
+    @pets = 
   end
   
   
