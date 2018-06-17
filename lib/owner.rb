@@ -52,6 +52,7 @@ class Owner
   end
   
   def sell_pets
-    @pets.eeach do 
+    @pets.each do |species, animal|
+      animal.each
     
 end
